@@ -1,6 +1,6 @@
 # 🎙️ Python Voice Assistant
 
-![Project Banner](https://i.imgur.com/JDy8Y3a.png)  
+![Project Banner](https://media.licdn.com/dms/image/v2/D4D12AQGiKjryF0yAxA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1691257967689?e=2147483647&v=beta&t=64m_Ablm1C0hkB-YG-J4z0QrHbcJDY4zFqNzmfyAkW4)  
 *A smart virtual assistant that responds to voice commands for automating daily tasks*
 
 ## 🌟 Features
@@ -44,8 +44,8 @@ graph TD
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/voice-assistant.git
-cd voice-assistant
+git clone https://github.com/muzaffar401/CodeAlpha_Project.git
+cd CodeAlpha_Project
 
 # Create virtual environment
 python -m venv venv
@@ -78,11 +78,6 @@ WOLFRAM_APP_ID=your_wolfram_id
 | **Email**     | "Send email" (follow prompts) |
 | **System**    | "Shutdown computer" |
 
-## 📸 Screenshots
-<div align="center">
-  <img src="https://i.imgur.com/JDy8Y3a.png" width="45%">
-  <img src="https://i.imgur.com/JDy8Y3a.png" width="45%">
-</div>
 
 ## 🛠️ Troubleshooting
 | Issue | Solution |
@@ -103,6 +98,6 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## ✉️ Contact
 Your Name - your.email@example.com  
-Project Link: [https://github.com/yourusername/voice-assistant](https://github.com/yourusername/voice-assistant)
+Project Link: [https://github.com/muzaffar401/CodeAlpha_Project](https://github.com/muzaffar401/CodeAlpha_Project)
 ```
 
